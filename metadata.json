@@ -1,0 +1,6 @@
+{
+  "name": "HireMind AI",
+  "description": "An AI-powered Hiring Agent that conducts personalized, adaptive structured interviews with real-time feedback and evaluation metrics.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
